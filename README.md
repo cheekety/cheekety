@@ -12,4 +12,4 @@ I'm CK, currently a DevOps Engineer at Intel. I enjoy learning about new technol
  Python / Linux / Git / Docker / Jenkins / Shell Scripting
 
 ## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cheekety&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cheekety&show_icons=true&count_private=true)
